@@ -77,3 +77,9 @@ Not supported yet: live-panel's `loop`/`ring`/`funnel` views, `path`, `tarrow`, 
 
 ## License
 MIT. See LICENSE and NOTICE.
+
+## Related tools
+- [session-fold](https://github.com/Dodai0419/session-fold): read what your agent did at five zoom levels
+- [agent-board](https://github.com/Dodai0419/agent-board): see every Claude Code and Codex session at once
+- [breakout-panel](https://github.com/Dodai0419/breakout-panel): today's fastest-rising GitHub repos as a live panel
+- All tools, one install pattern: [github.com/Dodai0419](https://github.com/Dodai0419)
