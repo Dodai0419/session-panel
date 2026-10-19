@@ -1,0 +1,13 @@
+{
+  "name": "session-panel",
+  "owner": {
+    "name": "Dodai0419"
+  },
+  "plugins": [
+    {
+      "name": "session-panel",
+      "source": "./",
+      "description": "Replay a Claude Code session as an animated terminal panel you can post or watch in any browser."
+    }
+  ]
+}

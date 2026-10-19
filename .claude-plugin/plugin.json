@@ -1,0 +1,8 @@
+{
+  "name": "session-panel",
+  "description": "Replay a Claude Code session as an animated terminal panel you can post or watch in any browser.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Dodai0419"
+  }
+}

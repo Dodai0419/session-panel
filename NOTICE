@@ -1,0 +1,11 @@
+session-panel
+Copyright 2026 Dodai0419, MIT License (see LICENSE).
+
+The page renderer reads the config format of live-panel (https://github.com/ythx-101/live-panel-skill),
+Copyright (c) 2026 live-panel contributors, MIT License, and uses its terminal-dark colours.
+
+The session counts follow the definitions of agentplay (https://github.com/Entelligence-AI/agentplay),
+Copyright 2026 Entelligence AI, Inc., licensed under the Apache License, Version 2.0
+(http://www.apache.org/licenses/LICENSE-2.0). No agentplay source file is copied.
+
+fixtures/session.jsonl is a synthetic Claude Code transcript written for this repo; it contains no real user data.
